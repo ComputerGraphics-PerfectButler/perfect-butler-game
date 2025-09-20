@@ -1,0 +1,21 @@
+# Unity generated files
+/Library/
+/Temp/
+/Obj/
+/UnityGenerated/
+/Assets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop generated
+*.csproj
+*.unityproj
+*.sln
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Unity specific
+/Assets/StreamingAssets/
+*.apk
+*.unitypackage
