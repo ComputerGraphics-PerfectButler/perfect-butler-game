@@ -8,10 +8,10 @@
 - `feature/기능명`: 개별 기능 개발
 
 ### 브랜치 명명 규칙
-- `feature/player-controller` (A 담당)
-- `feature/ui-system` (B 담당)
-- `feature/3d-models` (C 담당)
-- `feature/minigames` (D 담당)
+- `feature/player-controller`
+- `feature/ui-system` 
+- `feature/3d-models`
+- `feature/minigames` 
 
 ### 커밋 메시지 규칙
 - `feat: 새 기능 추가`
