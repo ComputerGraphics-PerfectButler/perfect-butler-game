@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fb0d5e47ceae9f41b58db0e1227f151
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305473
+  packageName: Stickman Hyper Casual Characters
+  packageVersion: 1.0
+  assetPath: Assets/Hyper Casual Characters/Animator controller/walk.controller
+  uploadId: 759220
