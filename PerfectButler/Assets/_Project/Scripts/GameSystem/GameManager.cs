@@ -22,6 +22,6 @@ public class GameManager : MonoBehaviour
     
     void Start()
     {
-        Debug.Log("Perfect Butler Game Started!");
+        Debug.Log("MeowChoice Game Started!");
     }
 }
