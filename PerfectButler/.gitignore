@@ -1,0 +1,112 @@
+# ------------------------------
+# Unity Core Generated Folders
+# ------------------------------
+PerfectButler/[Ll]ibrary/
+PerfectButler/[Tt]emp/
+PerfectButler/[Oo]bj/
+PerfectButler/[Bb]uild/
+PerfectButler/[Bb]uilds/
+PerfectButler/[Ll]ogs/
+PerfectButler/[Uu]ser[Ss]ettings/
+PerfectButler/[Mm]emoryCaptures/
+
+# ------------------------------
+# Unity Cache / Lock files
+# ------------------------------
+PerfectButler/Temp/UnityLockfile
+PerfectButler/[Pp]ackages/packages-lock.json
+
+# ------------------------------
+# Unity Collab / Plastic SCM
+# ------------------------------
+PerfectButler/.collab/
+PerfectButler/.collabignore
+.plastic/
+
+# ------------------------------
+# Addressables / StreamingAssets / Slices
+# (Keep .meta files!)
+# ------------------------------
+PerfectButler/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/**/*.[Bb][Ii][N]*
+!PerfectButler/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/**/*.meta
+
+PerfectButler/[Aa]ssets/[Ss]treamingAssets/**/*
+!PerfectButler/[Aa]ssets/[Ss]treamingAssets/**/*.meta
+
+PerfectButler/[Aa]ssets/[Ss]lices/**/*
+!PerfectButler/[Aa]ssets/[Ss]lices/**/*.meta
+
+# ------------------------------
+# Unity Asset Store Tools (optional)
+# ------------------------------
+PerfectButler/[Aa]ssets/AssetStoreTools*
+!PerfectButler/[Aa]ssets/AssetStoreTools/*.meta
+
+# ------------------------------
+# Exclude crash or sysinfo
+# ------------------------------
+PerfectButler/sysinfo.txt
+PerfectButler/crashlytics-build.properties
+
+# ------------------------------
+# IDE / Build Tools
+# ------------------------------
+.vs/
+.gradle/
+.idea/
+.vscode/
+.consulo/
+
+# ------------------------------
+# Build Outputs
+# ------------------------------
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# ------------------------------
+# System / OS Files
+# ------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+Icon?
+
+# ------------------------------
+# Unity Project Metadata
+# ------------------------------
+# 🚫 Do NOT ignore .meta files (they link prefabs, materials, etc.)
+!*.meta
+
+# Unity auto-generated debug files (safe to ignore)
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.svd
+*.tmp
+*.user
+*.userprefs
+*.suo
+*.booproj
+*.unityproj
+*.csproj
+*.sln
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ------------------------------
+# FBX / Models / Addressables — keep their meta files!
+# ------------------------------
+!*.fbx.meta
+!*.obj.meta
+!*.prefab.meta
+!*.asset.meta
